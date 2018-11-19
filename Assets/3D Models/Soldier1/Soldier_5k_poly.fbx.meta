@@ -96,7 +96,12 @@ ModelImporter:
     7400000: mixamo.com
     9500000: //RootNode
     13700000: soldier_Military_Male_Lod_0
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: soldier_Military_Male_Lod_0Mat
+    second: {fileID: 2100000, guid: 70e0008dcdf9a4e788370485c453b60e, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
