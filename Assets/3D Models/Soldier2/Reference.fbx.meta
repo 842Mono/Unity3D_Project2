@@ -176,7 +176,67 @@ ModelImporter:
     13700022: headgear_02
     13700024: holsters-1
     13700026: SWAT_body.001
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 12gauge
+    second: {fileID: 2100000, guid: 632578d09af174f7798ca50ea430ee86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FRS_DIFF_Mat
+    second: {fileID: 2100000, guid: e7138593e948c4708899e5d6f620bd7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grenades_Mat
+    second: {fileID: 2100000, guid: e05bcb039e9af4257abcb4c5f4ebc994, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SWAT_body.001
+    second: {fileID: 2100000, guid: 4e7334b69a82f4b1b8334de9c63e7b50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bag
+    second: {fileID: 2100000, guid: 55b4d72fb4d174ab78da039f13fe2b07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: british_riot_police_diff.jpg
+    second: {fileID: 2100000, guid: 3affc34934f4943ea9e619ef5a7a91ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ct_gign
+    second: {fileID: 2100000, guid: 56c876b7ff89c46968f25f9e2560be16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ctm_gsg9_head_varianta
+    second: {fileID: 2100000, guid: a318b947426c647a58223ed238696fc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ctm_gsg9_visor
+    second: {fileID: 2100000, guid: a54c9b801caa246b1a15206c014161a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gear_04
+    second: {fileID: 2100000, guid: 459c3906cb19f48ca93585e9caa82185, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: headgear_02
+    second: {fileID: 2100000, guid: 77a1852587646497a9053def460fba9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: holsters-1
+    second: {fileID: 2100000, guid: dbe2c5c1ac77144fea4920dfef46637f, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -196,7 +256,7 @@ ModelImporter:
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 1
+    animationCompression: 3
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
@@ -248,8 +308,9 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
-    hasExtraRoot: 0
+    hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 2
