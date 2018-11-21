@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: fe60d6b2575c84a089ecbd2e19c2aadd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 12gauge
+    100002: bag
+    100004: blender_implicit
+    100006: british_riot_police_diff.jpg
+    100008: ct_gign
+    100010: ctm_gsg9_head_varianta
+    100012: ctm_gsg9_head_varianta.001
+    100014: ctm_gsg9_upperbody_varianta
+    100016: ctm_gsg9_visor
+    100018: FRS_DIFF_Mat
+    100020: gear_04
+    100022: Grenades_Mat
+    100024: headgear_02
+    100026: holsters-1
+    100028: //RootNode
+    100030: root
+    100032: SWAT_body.001
+    100034: ValveBiped.Anim_Attachment_LH
+    100036: ValveBiped.Anim_Attachment_RH
+    100038: ValveBiped.Bip01_Head1
+    100040: ValveBiped.Bip01_L_Calf
+    100042: ValveBiped.Bip01_L_Clavicle
+    100044: ValveBiped.Bip01_L_Finger0
+    100046: ValveBiped.Bip01_L_Finger01
+    100048: ValveBiped.Bip01_L_Finger02
+    100050: ValveBiped.Bip01_L_Finger1
+    100052: ValveBiped.Bip01_L_Finger11
+    100054: ValveBiped.Bip01_L_Finger12
+    100056: ValveBiped.Bip01_L_Finger2
+    100058: ValveBiped.Bip01_L_Finger21
+    100060: ValveBiped.Bip01_L_Finger22
+    100062: ValveBiped.Bip01_L_Foot
+    100064: ValveBiped.Bip01_L_Forearm
+    100066: ValveBiped.Bip01_L_Hand
+    100068: ValveBiped.Bip01_L_Thigh
+    100070: ValveBiped.Bip01_L_Toe0
+    100072: ValveBiped.Bip01_L_Ulna
+    100074: ValveBiped.Bip01_L_UpperArm
+    100076: ValveBiped.Bip01_L_Wrist
+    100078: ValveBiped.Bip01_Neck1
+    100080: ValveBiped.Bip01_Pelvis
+    100082: ValveBiped.Bip01_R_Calf
+    100084: ValveBiped.Bip01_R_Clavicle
+    100086: ValveBiped.Bip01_R_Finger0
+    100088: ValveBiped.Bip01_R_Finger01
+    100090: ValveBiped.Bip01_R_Finger02
+    100092: ValveBiped.Bip01_R_Finger1
+    100094: ValveBiped.Bip01_R_Finger11
+    100096: ValveBiped.Bip01_R_Finger12
+    100098: ValveBiped.Bip01_R_Finger2
+    100100: ValveBiped.Bip01_R_Finger21
+    100102: ValveBiped.Bip01_R_Finger22
+    100104: ValveBiped.Bip01_R_Foot
+    100106: ValveBiped.Bip01_R_Forearm
+    100108: ValveBiped.Bip01_R_Hand
+    100110: ValveBiped.Bip01_R_Thigh
+    100112: ValveBiped.Bip01_R_Toe0
+    100114: ValveBiped.Bip01_R_Ulna
+    100116: ValveBiped.Bip01_R_UpperArm
+    100118: ValveBiped.Bip01_R_Wrist
+    100120: ValveBiped.Bip01_Spine
+    100122: ValveBiped.Bip01_Spine1
+    100124: ValveBiped.Bip01_Spine2
+    100126: ValveBiped.Bip01_Spine4
+    100128: ValveBiped.forward
+    400000: 12gauge
+    400002: bag
+    400004: blender_implicit
+    400006: british_riot_police_diff.jpg
+    400008: ct_gign
+    400010: ctm_gsg9_head_varianta
+    400012: ctm_gsg9_head_varianta.001
+    400014: ctm_gsg9_upperbody_varianta
+    400016: ctm_gsg9_visor
+    400018: FRS_DIFF_Mat
+    400020: gear_04
+    400022: Grenades_Mat
+    400024: headgear_02
+    400026: holsters-1
+    400028: //RootNode
+    400030: root
+    400032: SWAT_body.001
+    400034: ValveBiped.Anim_Attachment_LH
+    400036: ValveBiped.Anim_Attachment_RH
+    400038: ValveBiped.Bip01_Head1
+    400040: ValveBiped.Bip01_L_Calf
+    400042: ValveBiped.Bip01_L_Clavicle
+    400044: ValveBiped.Bip01_L_Finger0
+    400046: ValveBiped.Bip01_L_Finger01
+    400048: ValveBiped.Bip01_L_Finger02
+    400050: ValveBiped.Bip01_L_Finger1
+    400052: ValveBiped.Bip01_L_Finger11
+    400054: ValveBiped.Bip01_L_Finger12
+    400056: ValveBiped.Bip01_L_Finger2
+    400058: ValveBiped.Bip01_L_Finger21
+    400060: ValveBiped.Bip01_L_Finger22
+    400062: ValveBiped.Bip01_L_Foot
+    400064: ValveBiped.Bip01_L_Forearm
+    400066: ValveBiped.Bip01_L_Hand
+    400068: ValveBiped.Bip01_L_Thigh
+    400070: ValveBiped.Bip01_L_Toe0
+    400072: ValveBiped.Bip01_L_Ulna
+    400074: ValveBiped.Bip01_L_UpperArm
+    400076: ValveBiped.Bip01_L_Wrist
+    400078: ValveBiped.Bip01_Neck1
+    400080: ValveBiped.Bip01_Pelvis
+    400082: ValveBiped.Bip01_R_Calf
+    400084: ValveBiped.Bip01_R_Clavicle
+    400086: ValveBiped.Bip01_R_Finger0
+    400088: ValveBiped.Bip01_R_Finger01
+    400090: ValveBiped.Bip01_R_Finger02
+    400092: ValveBiped.Bip01_R_Finger1
+    400094: ValveBiped.Bip01_R_Finger11
+    400096: ValveBiped.Bip01_R_Finger12
+    400098: ValveBiped.Bip01_R_Finger2
+    400100: ValveBiped.Bip01_R_Finger21
+    400102: ValveBiped.Bip01_R_Finger22
+    400104: ValveBiped.Bip01_R_Foot
+    400106: ValveBiped.Bip01_R_Forearm
+    400108: ValveBiped.Bip01_R_Hand
+    400110: ValveBiped.Bip01_R_Thigh
+    400112: ValveBiped.Bip01_R_Toe0
+    400114: ValveBiped.Bip01_R_Ulna
+    400116: ValveBiped.Bip01_R_UpperArm
+    400118: ValveBiped.Bip01_R_Wrist
+    400120: ValveBiped.Bip01_Spine
+    400122: ValveBiped.Bip01_Spine1
+    400124: ValveBiped.Bip01_Spine2
+    400126: ValveBiped.Bip01_Spine4
+    400128: ValveBiped.forward
+    2100000: ct_gign
+    2100002: british_riot_police_diff.jpg
+    2100004: ctm_gsg9_head_varianta
+    2100006: ctm_gsg9_visor
+    2100008: ctm_gsg9_head_varianta.001
+    2100010: holsters-1
+    2100012: gear_04
+    2100014: ctm_gsg9_upperbody_varianta
+    2100016: 12gauge
+    2100018: headgear_02
+    2100020: SWAT_body.001
+    2100022: bag
+    2100024: Grenades_Mat
+    2100026: FRS_DIFF_Mat
+    4300000: ct_gign
+    4300002: british_riot_police_diff.jpg
+    4300004: ctm_gsg9_head_varianta
+    4300006: ctm_gsg9_visor
+    4300008: ctm_gsg9_head_varianta.001
+    4300010: holsters-1
+    4300012: gear_04
+    4300014: ctm_gsg9_upperbody_varianta
+    4300016: 12gauge
+    4300018: headgear_02
+    4300020: SWAT_body.001
+    4300022: bag
+    4300024: Grenades_Mat
+    4300026: FRS_DIFF_Mat
+    9500000: //RootNode
+    13700000: 12gauge
+    13700002: bag
+    13700004: british_riot_police_diff.jpg
+    13700006: ct_gign
+    13700008: ctm_gsg9_head_varianta
+    13700010: ctm_gsg9_head_varianta.001
+    13700012: ctm_gsg9_upperbody_varianta
+    13700014: ctm_gsg9_visor
+    13700016: FRS_DIFF_Mat
+    13700018: gear_04
+    13700020: Grenades_Mat
+    13700022: headgear_02
+    13700024: holsters-1
+    13700026: SWAT_body.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 12gauge
+    second: {fileID: 2100000, guid: 632578d09af174f7798ca50ea430ee86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FRS_DIFF_Mat
+    second: {fileID: 2100000, guid: e7138593e948c4708899e5d6f620bd7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grenades_Mat
+    second: {fileID: 2100000, guid: e05bcb039e9af4257abcb4c5f4ebc994, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SWAT_body.001
+    second: {fileID: 2100000, guid: 4e7334b69a82f4b1b8334de9c63e7b50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bag
+    second: {fileID: 2100000, guid: 55b4d72fb4d174ab78da039f13fe2b07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: british_riot_police_diff.jpg
+    second: {fileID: 2100000, guid: 3affc34934f4943ea9e619ef5a7a91ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ct_gign
+    second: {fileID: 2100000, guid: 56c876b7ff89c46968f25f9e2560be16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ctm_gsg9_head_varianta
+    second: {fileID: 2100000, guid: a318b947426c647a58223ed238696fc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ctm_gsg9_visor
+    second: {fileID: 2100000, guid: a54c9b801caa246b1a15206c014161a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gear_04
+    second: {fileID: 2100000, guid: 459c3906cb19f48ca93585e9caa82185, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: headgear_02
+    second: {fileID: 2100000, guid: 77a1852587646497a9053def460fba9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: holsters-1
+    second: {fileID: 2100000, guid: dbe2c5c1ac77144fea4920dfef46637f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
