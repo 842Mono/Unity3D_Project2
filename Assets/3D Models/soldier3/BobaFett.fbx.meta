@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5cb5176301791417c89fa05b85d82d7c
+guid: c97c8e472a8954e1795cec86fa3e5991
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -148,12 +148,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: M_01___Default1mat
-    second: {fileID: 2100000, guid: 179b9aa8360bb44f593ec7baceb7bdc6, type: 2}
+    second: {fileID: 2100000, guid: f0cd61d63ff314ec580abae6e9320a81, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: M_02___Default1mat
-    second: {fileID: 2100000, guid: 75d4e41f070654c6ca04b9dace7dd5ce, type: 2}
+    second: {fileID: 2100000, guid: 68ea93844f42145bab8dcaaf7270a2e0, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
